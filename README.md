@@ -1,8 +1,7 @@
 # Hi there, I'm Kiran Kumar Yela 👋
 
-### 🚀 Full Stack Developer | Scalable Web Systems & AI Integration
-I am a pre-final year Engineering student passionate about building robust, scalable web applications. My focus lies in architecting RESTful microservices, optimizing database performance for high-concurrency systems, and integrating AI models into user-friendly frontend interfaces.
-
+### 🚀 Full Stack Developer 
+I am a pre-final year Engineering student passionate about building robust, scalable web applications. 
 ---
 
 ### 🛠 Tech Stack
